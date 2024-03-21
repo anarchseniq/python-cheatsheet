@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env node RUN FOR DEAL
 // Usage: node parse.js
 //
 // Script that creates index.html out of web/template.html and README.md.
